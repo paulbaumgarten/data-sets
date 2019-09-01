@@ -1,0 +1,662 @@
+lat,lon,city
+51.883,-176.633,Adak
+-21.133,-175.2,Nuku%CA%BBalofa
+-13.833,-171.833,Apia
+-14.267,-170.7,Pago Pago
+-19.05,-169.917,Alofi
+-21.2,-159.767,Avarua
+21.3,-157.817,Honolulu
+19.7,-155.1,Hilo
+61.217,-149.883,Anchorage
+-17.533,-149.567,Papeete
+64.833,-147.7,Fairbanks
+57.05,-135.317,Sitka
+60.717,-135.05,Whitehorse
+58.35,-134.5,Juneau
+-25.067,-130.1,Adamstown
+49.25,-123.1,Vancouver
+3.133,-12.05,Rabi Island
+45.517,-122.667,Portland
+37.767,-122.417,San Francisco
+47.6,-122.317,Seattle
+38.55,-121.467,Sacramento
+34.05,-118.25,Los Angeles
+33.933,-117.383,Riverside
+32.767,-117.15,San Diego
+32.517,-117.033,Tijuana
+32.667,-115.467,Mexicali
+36.167,-115.133,Las Vegas
+62.45,-114.4,Yellowknife
+51.033,-114.05,Calgary
+53.567,-113.517,Edmonton
+33.433,-112.067,Phoenix
+40.75,-111.883,Salt Lake City
+32.2,-110.917,Tucson
+27.15,-109.433,Hanga Roa
+52.117,-106.65,Saskatoon
+35.1,-106.6,Albuquerque
+31.783,-106.417,El Paso
+28.1,-106,Chihuahua
+39.733,-104.983,Denver
+24.017,-104.667,Durango
+50.433,-104.617,Regina
+20.767,-103.4,Zapopan
+20.667,-103.35,Guadalajara
+25.667,-100.3,Monterrey
+19.4,-99.117,Mexico City
+29.533,-98.467,San Antonio
+19.05,-98.2,Puebla
+30.267,-97.767,Austin
+35.467,-97.533,Oklahoma City
+37.683,-97.333,Wichita
+49.9,-97.133,Winnipeg
+32.767,-96.8,Dallas
+19.183,-96.133,Veracruz
+29.75,-95.367,Houston
+39.1,-94.567,Kansas City
+44.967,-93.25,Minneapolis
+14.833,-91.517,Quetzaltenango
+14.633,-90.55,Guatemala City
+38.617,-90.183,St. Louis
+29.967,-90.067,New Orleans
+35.117,-89.967,Memphis
+20.967,-89.617,M%C3%A9rida
+13.683,-89.183,San Salvador
+17.25,-88.767,Belmopan
+17.483,-88.183,Belize City
+47.05,-87.95,Milwaukee
+41.867,-87.617,Chicago
+14.083,-87.217,Tegucigalpa
+36.167,-86.783,Nashville
+12.133,-86.25,Managua
+39.783,-86.15,Indianapolis
+38.25,-85.75,Louisville
+39.133,-84.5,Cincinnati
+33.75,-84.383,Atlanta
+9.933,-84.083,San Jos%C3%A9
+42.333,-83.05,Detroit
+39.983,-82.983,Columbus
+27.967,-82.467,Tampa
+23.133,-82.383,Havana
+41.483,-81.667,Cleveland
+30.317,-81.65,Jacksonville
+5.417,100.317,George Town
+35.2,-80.817,Charlotte
+25.783,-80.217,Miami
+40.433,-79.967,Pittsburgh
+2.183,-79.883,Guayaquil
+8.983,-79.517,Panama City
+43.65,-79.383,Toronto
+42.9,-78.85,Buffalo
+35.817,-78.633,Raleigh
+0.25,-78.583,Quito
+43.15,-77.6,Rochester
+25.05,-77.333,Nassau
+38.883,-77.033,Washington
+-12.033,-77.017,Lima
+-29.067,167.967,Kingston
+39.283,-76.617,Baltimore
+3.417,-76.517,Cali
+36.85,-75.983,Virginia Beach
+20.017,-75.8,Santiago de Cuba
+45.417,-75.683,Ottawa
+6.233,-75.567,Medell%C3%ADn
+10.4,-75.5,Cartagena
+39.95,-75.167,Philadelphia
+10.95,-74.783,Barranquilla
+39.817,-74.183,Forked River
+41.433,-74.133,Jersey City
+4.6,-74.067,Bogot%C3%A1
+40.717,-74,New York City
+45.5,-73.55,Montreal
+-3.733,-73.25,Iquitos
+-39.817,-73.233,Valdivia
+-36.833,-73.05,Concepci%C3%B3n
+18.533,-72.333,Port-au-Prince
+-13.5,-71.967,Cusco
+-10.65,-71.633,Maracaibo
+-33.05,-71.617,Valpara%C3%ADso
+-16.4,-71.533,Arequipa
+41.817,-71.417,Providence
+-41.15,-71.3,San Carlos de Bariloche
+-29.9,-71.25,La Serena
+46.8,-71.217,Quebec City
+21.45,-71.133,Cockburn Town
+42.35,-71.05,Boston
+-53.167,-70.933,Punta Arenas
+-33.45,-70.667,Santiago
+-23.65,-70.4,Antofagasta
+-20.217,-70.15,Iquique
+12.517,-70.033,Oranjestad
+18.483,-69.917,Santo Domingo
+-10.117,-69.35,Rio Branco
+12.117,-68.933,Willemstad
+-22.467,-68.933,Calama
+-32.883,-68.817,Mendoza
+63.75,-68.517,Iqaluit
+-54.8,-68.3,Ushuaia
+-16.5,-68.15,La Paz
+54.933,-67.617,Puerto Williams
+10.5,-66.917,Caracas
+45.95,-66.667,Fredericton
+18.45,-66.067,San Juan
+45.267,-66.05,Saint John
+-19.033,-65.25,Sucre
+-18.35,-64.95,Charlotte Amalie
+-37.783,175.283,Hamilton
+18.433,-64.617,Road Town
+-31.4,-64.183,C%C3%B3rdoba
+-8.75,-63.9,Porto Velho
+44.667,-63.6,City of Halifax
+-17.8,-63.167,Santa Cruz de la Sierra
+46.233,-63.133,Charlottetown
+18.217,-63.05,The Valley
+15.983,-61.717,Basse-Terre
+-38.717,-62.267,Bah%C3%ADa Blanca
+47.55,-52.7,St. John%27s
+12.05,-61.75,St. George%27s
+10.667,-61.517,Port of Spain
+10.283,-61.467,San Fernando
+15.3,-61.383,Roseau
+10.5,-61.383,Chaguanas
+13.167,-61.233,Kingstown
+14.6,-61.083,Fort-de-France
+14.017,-60.983,Castries
+-32.95,-60.667,Rosario
+2.817,-60.65,Boa Vista
+-3.1,-60.017,Manaus
+13.083,-59.617,Bridgetown
+-34.6,-58.367,Buenos Aires
+51.683,-57.85,Stanley
+-25.267,-57.667,Asunci%C3%B3n
+46.767,-56.167,Saint-Pierre
+-34.917,-56.167,Montevideo
+-15.583,-56.083,Cuiab%C3%A1
+5.867,-55.167,Paramaribo
+-20.433,-54.633,Campo Grande
+-25.417,-54.617,Ciudad del Este
+-33.683,-53.45,Chu%C3%AD
+-31.767,-52.333,Pelotas
+4.917,-52.317,Cayenne
+64.167,-51.75,Nuuk
+30.033,-51.217,Porto Alegre
+0.033,-51.05,Macap%C3%A1
+-22.65,-50.4,Assis
+-25.417,-49.25,Curitiba
+1.467,-48.483,Bel%C3%A9m
+-15.8,-47.9,Bras%C3%ADlia
+-22.9,-47.05,Campinas
+-23.55,-46.633,S%C3%A3o Paulo
+-23.183,-45.867,S%C3%A3o Jos%C3%A9 dos Campos
+-22.9,-43.233,Rio de Janeiro
+-20.317,-40.333,Vit%C3%B3ria
+-14.783,-39.05,Ilh%C3%A9us
+-3.767,-38.567,Fortaleza
+-9.65,-35.717,Macei%C3%B3
+-8.067,-34.867,Recife
+38.533,-28.633,Horta (Azores)
+38.65,-27.217,Angra do Hero%C3%ADsmo
+37.733,-25.667,Ponta Delgada
+14.917,-23.517,Praia
+64.133,-21.933,Reykjav%C3%ADk
+14.683,-17.433,Dakar
+14.833,-17.1,Thi%C3%A8s
+13.433,-16.667,Serekunda
+13.267,-16.65,Brikama
+13.45,-16.567,Banjul
+28.467,-16.25,Santa Cruz de Tenerife
+18.1,-15.95,Nouakchott
+11.85,-15.583,Bissau
+28.133,-15.433,Las Palmas de Gran Canaria
+9.517,-13.7,Conakry
+8.467,-13.267,Freetown
+27.15,-13.2,El Aai%C3%BAn
+6.317,-10.767,Monrovia
+38.7,-9.183,Lisbon
+41.15,-8.633,Porto
+51.883,-8.467,Cork (city)
+31.633,-8,Marrakech
+12.65,-8,Bamako
+33.533,-7.583,Casablanca
+12.983,-7.567,Koulikoro
+34.033,-6.833,Rabat
+62,-6.783,T%C3%B3rshavn
+53.333,-6.267,Dublin
+37.367,-5.983,Seville
+54.6,-5.917,Belfast
+-15.917,-5.733,Jamestown
+36.133,-5.35,Gibraltar
+6.817,-5.283,Yamoussoukro
+54.133,-4.483,Douglas
+36.717,-4.417,M%C3%A1laga
+55.85,-4.25,Glasgow
+5.333,-4.017,Abidjan
+40.4,-3.683,Madrid
+51.483,-3.183,Cardiff
+55.95,-3.15,Edinburgh
+16.767,-3,Timbuktu
+53.4,-2.983,Liverpool
+43.25,-2.917,Bilbao
+53.467,-2.233,Manchester
+57.15,-2.1,Aberdeen
+52.483,-1.883,Birmingham
+53.8,-1.55,Leeds
+47.217,-1.55,Nantes
+12.35,-1.533,Ouagadougou
+9.4,-0.85,Tamale
+39.483,-0.367,Valencia
+5.55,-0.2,Accra
+51.5,-0.117,London
+51.467,0,Greenwich
+6.133,1.2,Lom%C3%A9
+43.6,1.433,Toulouse
+42.5,1.5,Andorra la Vella
+39.633,1.717,Ibiza
+13.517,2.1,Niamey
+41.383,2.183,Barcelona
+48.867,2.333,Paris
+6.35,2.417,Cotonou
+6.5,2.6,Porto-Novo
+39.567,2.65,Palma
+36.7,3.217,Algiers
+6.45,3.383,Lagos
+7.367,3.883,Ibadan
+52.067,4.3,The Hague
+50.833,4.35,Brussels
+51.217,4.4,Antwerp
+51.933,4.467,Rotterdam
+45.767,4.833,Lyon
+52.367,4.883,Amsterdam
+43.3,5.367,Marseille
+60.367,5.4,Bergen
+49.6,6.117,Luxembourg (city)
+46.2,6.15,Geneva
+0.333,6.683,S%C3%A3o Tom%C3%A9
+51.233,6.783,D%C3%BCsseldorf
+50.95,6.967,Cologne
+43.55,7,Cannes
+43.7,7.267,Nice
+43.733,7.4,Monaco
+46.95,7.45,Bern
+9.067,7.483,Abuja
+6.45,7.5,Enugu
+45.067,7.7,Turin
+48.583,7.75,Strasbourg
+12,8.517,Kano
+47.367,8.55,Z%C3%BCrich
+50.1,8.683,Frankfurt
+3.75,8.767,Malabo
+48.767,9.167,Stuttgart
+45.467,9.183,Milan
+0.383,9.45,Libreville
+47.133,9.517,Vaduz
+4.05,9.7,Douala
+52.367,9.717,Hanover
+53.583,9.983,Hamburg
+36.8,10.167,Tunis
+56.15,10.2,Aarhus
+59.95,10.75,Oslo
+47.267,11.383,Innsbruck
+3.867,11.517,Yaound%C3%A9
+48.133,11.567,Munich
+57.7,11.967,Gothenburg
+51.333,12.383,Leipzig
+43.933,12.433,City of San Marino
+41.9,12.45,Vatican City
+41.9,12.5,Rome
+55.667,12.567,Copenhagen
+55.583,13.033,Malm%C3%B6
+47.8,13.033,Salzburg
+32.9,13.183,Tripoli
+-8.833,13.233,Luanda
+52.517,13.417,Berlin
+51.05,13.733,Dresden
+40.833,14.25,Naples
+48.3,14.283,Linz
+50.083,14.417,Prague
+27.033,14.433,Sabha
+35.883,14.45,Birkirkara
+46.067,14.5,Ljubljana
+35.9,14.5,Valletta
+12.1,15.05,N%27Djamena
+-4.267,15.283,Brazzaville
+-4.317,15.317,Kinshasa
+47.067,15.433,Graz
+78.217,15.55,Longyearbyen
+45.817,15.983,Zagreb
+48.2,16.367,Vienna
+43.5,16.433,Split (city)
+48.133,17.1,Bratislava
+59.35,18.067,Stockholm
+43.85,18.35,Sarajevo
+-33.917,18.417,Cape Town
+4.35,18.583,Bangui
+54.35,18.667,Gda%C5%84sk
+47.467,19.05,Budapest
+42.467,19.267,Podgorica
+41.317,19.817,Tirana
+50.05,19.933,Krak%C3%B3w
+44.817,20.45,Belgrade
+54.717,20.517,Kaliningrad
+52.233,21,Warsaw
+42.667,21.167,Pristina
+42,21.433,Skopje
+40.633,22.95,Thessaloniki
+42.7,23.333,Sofia
+37.967,23.717,Athens
+61.5,23.75,Tampere
+49.85,24.017,Lviv
+56.967,24.133,Riga
+60.2,24.65,Espoo
+59.433,24.75,Tallinn
+60.167,24.933,Helsinki
+54.683,25.283,Vilnius
+-33.95,25.6,Port Elizabeth
+-17.85,25.867,Livingstone
+-24.65,25.9,Gaborone
+44.433,26.1,Bucharest
+-29.1,26.217,Bloemfontein
+58.383,26.717,Tartu
+38.433,27.15,%C4%B0zmir
+-11.667,27.467,Lubumbashi
+-29.3,27.467,Maseru
+-21.167,27.5,Francistown
+53.9,27.567,Minsk
+-26.2,28.033,Johannesburg
+-25.733,28.183,Pretoria
+-15.417,28.283,Lusaka
+-12.967,28.633,Ndola
+-20.167,28.567,Bulawayo
+47,28.867,Chi%C5%9Fin%C4%83u
+41,28.967,Istanbul
+40.183,29.067,Bursa
+-3.383,29.367,Bujumbura
+46.85,29.633,Tiraspol
+31.2,29.917,Alexandria
+-1.933,30.05,Kigali
+59.933,30.333,Saint Petersburg
+50.45,30.517,Kiev
+46.467,30.733,Odessa
+-17.817,31.05,Harare
+-29.883,31.05,Durban
+-26.317,31.133,Mbabane
+-26.467,31.2,Lobamba
+30.05,31.217,Cairo
+-26.483,31.367,Manzini
+31.25,32.283,Port Said
+37.867,32.483,Konya
+15.65,32.483,Omdurman
+15.633,32.533,Khartoum
+29.967,32.55,Suez
+-25.967,32.583,Maputo
+25.683,32.65,Luxor
+39.867,32.833,Ankara
+-2.517,32.9,Mwanza
+68.967,33.083,Murmansk
+35.167,33.35,Nicosia
+-13.983,33.783,Lilongwe
+44.95,34.1,Simferopol
+31.517,34.45,Gaza
+36.8,34.633,Mersin
+32.083,34.8,Tel Aviv
+-15.783,35,Blantyre
+31.783,35.217,Jerusalem
+37,35.317,Adana
+33.883,35.5,Beirut
+-6.167,35.733,Dodoma
+31.95,35.933,Amman
+33.5,36.283,Damascus
+49.917,36.317,Kharkiv
+-1.283,36.817,Nairobi
+37.067,37.383,Gaziantep
+55.75,37.6,Moscow
+9.017,38.733,Addis Ababa
+15.333,38.933,Asmara
+21.533,39.167,Jeddah
+-6.167,39.2,Zanzibar City
+-6.817,39.267,Dar es Salaam
+24.467,39.6,Medina
+21.417,39.817,Mecca
+43,41.017,Sukhumi
+11.583,43.133,Djibouti (city)
+-11.75,43.2,Moroni
+42.233,43.967,Tskhinvali
+15.35,44.2,Sana%27a
+33.317,44.417,Baghdad
+56.333,44,Nizhny Novgorod
+9.5,44,Hargeisa
+36.333,44.017,Arbil
+40.183,44.517,Yerevan
+41.717,44.783,Tbilisi
+-12.783,45.217,Mamoudzou
+2.033,45.35,Mogadishu
+38.083,46.283,Tabriz
+24.7,46.717,Riyadh
+39.817,46.75,Stepanakert
+-18.933,47.517,Antananarivo
+30.5,47.817,Basra
+29.367,47.967,Kuwait City
+40.367,49.883,Baku
+26.433,50.117,Dammam
+53.233,50.167,Samara
+26.217,50.583,Manama
+35.683,51.417,Tehran
+25.283,51.533,Doha
+24.467,54.367,Abu Dhabi
+25.267,55.3,Dubai
+-4.617,55.45,Victoria
+-20.867,55.45,Saint-Denis
+58,56.317,Perm
+-20.167,57.5,Port Louis
+37.967,58.333,Ashgabat
+23.6,58.533,Muscat
+42.467,59.6,Nukus
+36.3,59.6,Mashhad
+56.833,60.583,Yekaterinburg
+31.617,65.717,Kandahar
+24.85,67,Karachi
+17.367,78.467,Hyderabad
+38.533,68.767,Dushanbe
+34.533,69.167,Kabul
+41.267,69.217,Tashkent
+51.183,71.45,Astana
+30.2,71.45,Multan
+34,71.5,Peshawar
+41.633,71.967,Namangan
+23.017,72.567,Ahmedabad
+18.95,72.817,Mumbai
+21.167,72.817,Surat
+31.367,72.983,Faisalabad
+33.6,73.033,Rawalpindi
+33.717,73.067,Islamabad
+54.983,73.367,Omsk
+4.167,73.5,Mal%C3%A9
+18.517,73.85,Pune
+31.55,74.333,Lahore
+42.867,74.6,Bishkek
+34.083,74.783,Srinagar
+31.633,74.85,Amritsar
+26.917,75.817,Jaipur
+30.9,75.85,Ludhiana
+43.267,76.883,Almaty
+28.617,77.2,New Delhi
+12.967,77.567,Bangalore
+21.067,79.017,Nagpur
+6.883,79.867,Colombo
+6.9,79.883,Sri Jayawardenapura-Kotte
+13.083,80.267,Chennai
+26.45,80.333,Kanpur
+7.283,80.633,Kandy
+26.85,80.917,Lucknow
+7.717,81.7,Batticaloa
+55.017,82.933,Novosibirsk
+25.6,85.133,Patna
+27.7,85.333,Kathmandu
+43.8,87.583,%C3%9Cr%C3%BCmqi
+69.35,88.2,Norilsk
+22.567,88.367,Kolkata
+27.317,88.617,Gangtok
+29.267,88.867,Shigatse
+27.467,89.633,Thimphu
+23.7,90.367,Dhaka
+29.65,91.117,Lhasa
+23.5,91.2,Agartala
+26.167,91.767,Guwahati
+22.367,91.8,Chittagong
+25.567,91.883,Shillong
+11.667,92.75,Port Blair
+27.467,94.9,Dibrugarh
+5.55,95.317,Banda Aceh
+19.75,96.1,Naypyidaw
+16.8,96.167,Yangon
+3.583,98.667,Medan
+7.883,98.4,Phuket (city)
+18.783,98.983,Chiang Mai
+9.133,99.333,Surat Thani
+-0.95,100.35,Padang
+6.117,100.367,Alor Star
+7.017,100.467,Hat Yai
+13.75,100.483,Bangkok
+12.917,100.867,Pattaya
+4.6,101.067,Ipoh
+0.533,101.45,Pekanbaru
+56.167,101.617,Bratsk
+3.133,101.683,Kuala Lumpur
+36.633,101.767,Xining
+14.967,102.1,Nakhon Ratchasima
+6.133,102.25,Kota Bharu
+2.183,102.383,Malacca Town
+17.95,102.617,Vientiane
+25.067,102.683,Kunming
+17.417,102.75,Udon Thani
+1.483,103.733,Johor Bahru
+36.033,103.8,Lanzhou
+1.367,103.8,Singapore
+13.35,103.85,Siem Reap
+30.65,104.067,Chengdu
+-2.983,104.75,Palembang
+11.55,104.917,Phnom Penh
+21.033,105.85,Hanoi
+29.55,106.5,Chongqing
+20.85,106.683,Hai Phong
+10.767,106.683,Ho Chi Minh City
+-6.133,106.75,Jakarta
+-6.6,106.8,Bogor
+47.917,106.917,Ulan Bator
+-6.95,107.567,Bandung
+16.467,107.6,Hu%E1%BA%BF
+16.067,108.233,Da Nang
+22.817,108.317,Nanning
+34.267,108.9,Xi%27an
+0,109.333,Pontianak
+1.55,110.35,Kuching
+-7.8,110.367,Yogyakarta (city)
+-6.967,110.417,Semarang
+37.867,112.55,Taiyuan
+-7.967,112.617,Malang
+-7.233,112.733,Surabaya
+23.1,113.267,Guangzhou
+22.167,113.55,Macau
+34.75,113.633,Zhengzhou
+23.033,113.717,Dongguan
+4.383,113.967,Miri
+22.55,114.1,Shenzhen
+22.3,114.2,Hong Kong
+30.567,114.267,Wuhan
+36.6,114.483,Handan
+38.033,114.5,Shijiazhuang
+4.883,114.933,Bandar Seri Begawan
+-8.65,115.217,Denpasar
+-32.517,115.717,Mandurah
+-31.95,115.85,Perth
+5.967,116.083,Kota Kinabalu
+39.9,116.4,Beijing
+-1.25,116.817,Balikpapan
+36.667,116.983,Jinan
+39.133,117.183,Tianjin
+-20.3,118.6,Port Hedland
+32.05,118.767,Nanjing
+-5.133,119.417,Makassar
+30.25,120.167,Hangzhou
+22.633,120.267,Kaohsiung
+36.083,120.333,Qingdao
+24.15,120.667,Taichung
+14.583,120.967,Manila
+14.633,121.033,Quezon City
+14.55,121.033,Makati City
+31.2,121.5,Shanghai
+25.033,121.633,Taipei
+39.033,121.767,Dalian
+10.683,122.55,Iloilo City
+6.9,122.067,Zamboanga City
+41.783,123.45,Shenyang
+9.65,123.85,Tagbilaran
+10.283,123.9,Cebu City
+43.883,125.317,Changchun
+-8.55,125.583,Dili
+39.033,125.75,Pyongyang
+7.5,126,Davao City
+37.967,126.55,Kaesong
+45.75,126.633,Harbin
+37.483,126.633,Incheon
+37.55,126.983,Seoul
+39.15,127.433,Wonsan
+26.333,127.8,Okinawa
+-3.7,128.167,Ambon
+35.867,128.6,Daegu
+35.1,129.033,Busan
+62.033,129.733,Yakutsk
+41.8,129.783,Chongjin
+33.583,130.4,Fukuoka
+-12.45,130.833,Darwin
+43.133,131.9,Vladivostok
+34.383,132.45,Hiroshima
+7.35,134.467,Koror
+7.5,134.617,Melekeok
+34.683,135.2,Kobe
+34.683,135.5,Osaka
+35.017,135.767,Kyoto
+35.183,136.9,Nagoya
+-34.917,138.6,Adelaide
+35.45,139.633,Yokohama
+35.517,139.7,Kawasaki
+35.683,139.767,Tokyo
+-2.533,140.717,Jayapura
+43.067,141.35,Sapporo
+-38.15,144.35,Geelong
+13.483,144.75,Hag%C3%A5t%C3%B1a
+13.517,144.833,Dededo
+-37.8,144.95,Melbourne
+15.183,145.75,Saipan
+-16.917,145.767,Cairns
+-19.25,146.817,Townsville
+-9.467,147.167,Port Moresby
+-42.883,147.317,Hobart
+-35.3,149.117,Canberra
+-23.367,150.5,Rockhampton
+59.567,150.8,Magadan
+-34.433,150.883,Wollongong
+-33.85,151.2,Sydney
+-32.917,151.75,Newcastle
+7.45,151.85,Weno
+-27.467,153.017,Brisbane
+-28.167,153.55,Gold Coast
+6.917,158.183,Palikir
+53.017,158.65,Petropavlovsk-Kamchatsky
+-9.433,159.95,Honiara
+-22.267,166.45,Noum%C3%A9a
+-0.55,166.917,Yaren District
+-17.75,168.3,Port Vila
+-46.417,168.3,Invercargill
+-45.867,170.5,Dunedin
+7.067,171.267,Majuro
+-43.533,172.617,Christchurch
+1.317,172.983,South Tarawa
+-41.283,174.767,Wellington
+-36.85,174.783,Auckland
+-13.283,176.183,Mata-Utu
+64.733,177.5,Anadyr (town)
+-18.133,178.433,Suva
+-8.517,179.217,Funafuti
+-16.433,179.367,Labasa
+-9.383,179.85,Nukulaelae
